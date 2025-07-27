@@ -41,8 +41,6 @@ It represents a professional studio that builds performance-focused, mobile-firs
 
 ## 📸 Preview
 
-![Webline Studio Preview](https://weblinestudio.site/preview.jpg) <!-- Ose zëvendëso me një image real nga projekti -->
-
 🔗 Live Site: [www.weblinestudio.site](https://weblinestudio.site)
 
 ---
