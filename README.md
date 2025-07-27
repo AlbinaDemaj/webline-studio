@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# 🌐 Webline Studio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Creative Web & SEO Solutions for Modern Businesses**  
+Website built with 💙 React.js + Tailwind CSS
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 About the Project
 
-### `npm start`
+Webline Studio is a modern and responsive business website designed to showcase web development services, attract potential clients, and highlight creative projects.  
+It represents a professional studio that builds performance-focused, mobile-first, and SEO-optimized web solutions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> “We build digital experiences that perform & impress.”
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🎯 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅ Clean & Responsive Design (Mobile-First)
+- 🎨 Tailored UI/UX built with Tailwind CSS
+- ✉️ Functional Contact Form (powered by EmailJS)
+- 🌍 Multi-section landing page: Hero, Services, Projects, About, Contact
+- 🌟 Integrated SEO meta tags & Open Graph
+- 📊 Google Analytics ready
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Frontend:**
+- React.js
+- Tailwind CSS
+- Framer Motion (animations)
+- React Icons
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Integrations:**
+- EmailJS (contact form)
+- GitHub & Netlify (deployment)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📸 Preview
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Webline Studio Preview](https://weblinestudio.site/preview.jpg) <!-- Ose zëvendëso me një image real nga projekti -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🔗 Live Site: [www.weblinestudio.site](https://weblinestudio.site)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 💡 Purpose
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was built to:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 👩‍💻 Represent my web development studio and personal brand
+- 📣 Offer services in Web Design, SEO, and Custom Development
+- 🌍 Attract international clients with a professional online presence
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📬 Contact
 
-### Analyzing the Bundle Size
+👩‍💼 Created by [Albina Demaj](https://www.linkedin.com/in/albina-demaj-881293300/)  
+📧 Email: demajalbina3@gmail.com  
+🌐 Website: [www.weblinestudio.site](https://weblinestudio.site)  
+📸 Instagram: [@webline.dev](https://www.instagram.com/webline.dev)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## ⭐ Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+If you like this project, feel free to:
 
-### Advanced Configuration
+✅ Star the repo  
+📌 Share it  
+🤝 Collaborate with me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for your support! 💙
